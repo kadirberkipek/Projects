@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("background_image.jpg");
+    color: white;
+}
+#container{
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 20px 10px 5px 10px;
+}
+
+#title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+#flix{
+    color: red;
+}
+
+#description{
+    text-align: center;
+}
